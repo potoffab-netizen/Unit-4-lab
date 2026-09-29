@@ -17,9 +17,10 @@ In the past I have lived in Ann Arbor, moved to East lansing for college, then w
 #Projects
 ### Global Roadmap to incorporate sustainable language
 Contracting on global scale with legal teams
-Region, filter by country, suppliers located in each country, if said supplier has set a sustainability target, total emissions Co2e, and % of over supplier emissions. This allowed the Responsible Supply Management Team to have visisbility in the company's near term goals to keep on schedule for long term inititiatvies.
+- Multi sheet excel
+data from 10k+ suppliers, 116 countries, mapped by region from emissions reporting platformn, over 10K spend
 ### Update to KPI tracker 27K Suppliers
- Mapped supplier data from 116 countries to identify top suppliers by emissions, Region, filter by country, suppliers located in each country, if said supplier has set a sustainability target, total emissions Co2e, and % of over supplier emissions. This allowed the Responsible Supply Management Team to have visisbility in the company's near term goals to keep on schedule for long term inititiatvies.
+ Levered XLOOKUPs to map 27K+ supplier data to identify top suppliers by CO2e emissions, Region, filter by country, suppliers located in each country, if said supplier has set a sustainability target, total emissions Co2e, and % of over supplier emissions. This allowed the Responsible Supply Management Team to have visisbility in the company's near term goals to keep on schedule for long term inititiatvies. In parrallel, allows for Category Management to see high risk suppliers with data rather than a story. CM has leverage in negotiations with suppleirs for sustiaanbility metrics verse a siloed team urging change.
  
 ### Blanket making for Sparrow Hospital
 Coordianted event for bonding and blanket making to donate to the hospital
