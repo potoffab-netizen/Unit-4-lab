@@ -15,8 +15,12 @@ Abby is a senior majoring in Supply Chain Management at the Eli Broad College of
 In the past I have lived in Ann Arbor, moved to East lansing for college, then went to Minneapolis this past summer!
 
 #Projects
-### Global Roadmap
-Contracting on global scale with legal
+### Global Roadmap to incorporate sustainable language
+Contracting on global scale with legal teams
+Region, filter by country, suppliers located in each country, if said supplier has set a sustainability target, total emissions Co2e, and % of over supplier emissions. This allowed the Responsible Supply Management Team to have visisbility in the company's near term goals to keep on schedule for long term inititiatvies.
+### Update to KPI tracker 27K Suppliers
+ Mapped supplier data from 116 countries to identify top suppliers by emissions, Region, filter by country, suppliers located in each country, if said supplier has set a sustainability target, total emissions Co2e, and % of over supplier emissions. This allowed the Responsible Supply Management Team to have visisbility in the company's near term goals to keep on schedule for long term inititiatvies.
+ 
 ### Blanket making for Sparrow Hospital
 Coordianted event for bonding and blanket making to donate to the hospital
 
