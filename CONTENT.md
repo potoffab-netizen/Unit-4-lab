@@ -16,10 +16,11 @@ In the past I have lived in Ann Arbor, moved to East lansing for college, then w
 
 #Projects
 ### Global Roadmap to Incorporate Supplier Contract Template Clause
-Contracting on global scale with legal teams
-Drove and initaited partnerships with leal teams in all regions Medtronic operates in. Developed an understanding of challenges/limitations within each geogrpahical region, correct legal/sourcing contact, pushback, areas of support.
+Drove and initiated partnerships with leal teams in all regions Medtronic operates in. Reviewed 40+ supplier contract templates globally for standardization. Led meetings with legal partners in LATAM, Greater China, Southeast Asia, and Korea. Developed an understanding of different regions, challenges/limitations, legal/sourcing contact, pushback, areas of support. From these findings I created an in-depth strategic roadmap on exact actions quarter by quarter to acheive this goal in a timely manner. In addition to an indepth roadmap, on the same excel I created a legal/sourcing contact directory, rating of each region if they are open to new changes or hesitant, created an infogrpahic one-pager for legal/procurement partners, gap analysis of regional contracts, challenges that could arise, and data to tie into all conversations with global legal/procurement partners.
 
-Emmisions reporting platform data from ~10k suppliers with $10k+ in annual spend, 116 countries, mapped by region from emissions reporting platformn, over 10K spend. Region, filter by country, suppliers located in each country, if said supplier has set a sustainability target, % of their total emissions by supplier/country/region. Creates visibility and uses data as a source of truth global supplier emissions.
+I extracted raw data from the company emmisions reporting platform, ~10k suppliers with $10k+ in annual spend, 116 countries, mapped by region from emissions reporting platformn, over 10K spend. Region, filter by country, suppliers located in each country, if said supplier has set a sustainability target, % of their total emissions by supplier/country/region. Creates visibility and uses data as a source of truth global supplier emissions.
+
+This allowed for my manager to execute on the remaining portion of the project. There is now easily accessible up to date data by region, country, suppliers located in each region, sustaianbility goal setting, and more. This work allows the company to keep track on their near term goals and create standardization in a global clause.
 
 ### Initiate global process with legal in all regions 
 
