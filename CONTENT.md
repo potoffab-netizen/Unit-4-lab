@@ -22,13 +22,13 @@ I extracted raw data from the company emmisions reporting platform, ~10k supplie
 
 This allowed for my manager to execute on the remaining portion of the project. There is now easily accessible up to date data by region, country, suppliers located in each region, sustaianbility goal setting, and more. This work allows the company to keep track on their near term goals and create standardization in a global clause.
 
-### Initiate global process with legal in all regions 
+
 
 ### Update to Near term KPI tracker 27K+ Suppliers
   Performed data integration accross 4 raw datasets, cross refferecing levereging XLOOKUPs, to map 27K+ supplier data to identify top suppliers by CO2e emissions, vertical category, subcategory, category manager, and % of total supplier emissions. This allowed the Responsible Supply Management Team to have visisbility in the company's near term goal to have X% of suppliers setting emissions targets by X date. This is needed in order to keep on schedule for long term initiatives. In parrallel this work allows for Category Management/Supplier Relationship Management to see high risk suppliers with updated data for emmissions.
  
-### Blanket making for Sparrow Hospital
-Coordianted event for bonding and blanket making to donate to the hospital
+### Career Aspirations
+Strategic Sourcing Speacialist for Medical Devices. Experience in Category Strategy, Indirect Supply Management, Contract Manufacutring, Operations Sourcing, Transportation Management. Specifically a rotation in Procure to Pay and Maintenance Repair Operation (indirect). Fascinated by the intersection of finanace and supply management. Open to all opportunites, eager to learn!
 
 ## Contact
 Abby Potoff
